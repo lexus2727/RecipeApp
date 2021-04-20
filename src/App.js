@@ -68,7 +68,6 @@ const App = () => {
 export default App;
 
 //return displays to the browser
-//render() is needed to display changes in state to the browser
 //value={query} is part of clearing the input after 
 //Alert component is placed inside the form below the onSubmit
 //line 49 condition to display message if the alert doesnt have a value then we should display the message
