@@ -53,7 +53,7 @@ const App = () => {
       <form className="search-form" onSubmit={onSubmit}>
         {alert !== "" && <Alert alert={alert} />}
 
-        <input type="text" placeholder="Search Food Recipes" autoComplete="off"
+        <input type="text" placeholder="Search Food Or Drink Recipes" autoComplete="off"
           onChange={onChange}
           value={query} />
         <input type="submit" value="search" />
