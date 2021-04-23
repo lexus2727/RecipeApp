@@ -1,7 +1,12 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700&display=swap");
 
 * {
+  
+ 
   font-family: "Source Sans Pro", sans-serif;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
   margin: 0;
   padding: 0;
   text-decoration: none;
@@ -19,14 +24,24 @@ html {
   align-items: center;
 }
 
-h1 {
-  font-size: 8rem;
+h2 {
+  font-size: 5rem;
   letter-spacing: 0.1rem;
   font-style: italic;
   color: #40b48e;
   text-shadow: 0 0.2rem 5rem rgb(119, 115, 115);
   text-transform: uppercase;
-  margin: 4rem 0;
+  margin: 3rem 0;
+}
+
+h1 {
+  font-size: 8rem;
+  letter-spacing: 0.1rem;
+  font-style: italic;
+  color:#ff0000;
+  text-shadow: 0 0.2rem 5rem rgb(119, 115, 115);
+  text-transform: uppercase;
+  margin: 1rem 0;
 }
 
 .search-form {

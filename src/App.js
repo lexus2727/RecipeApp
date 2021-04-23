@@ -48,7 +48,8 @@ const App = () => {
   return (
     //center our heading
     <div className="App">
-      <h1>Recipe Searching App</h1>
+      <h1>Serenrecipe!</h1>
+      <h2>Recipe Searching App</h2>
       <form className="search-form" onSubmit={onSubmit}>
         {alert !== "" && <Alert alert={alert} />}
 
