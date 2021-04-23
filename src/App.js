@@ -49,8 +49,7 @@ const App = () => {
     //center our heading
     <div className="App">
       <h1>Serenrecipe!</h1>
-
-      <form className="search-form" onSubmit={onSubmit}>
+     <form className="search-form" onSubmit={onSubmit}>
         {alert !== "" && <Alert alert={alert} />}
 
         <input type="text" placeholder="Search Food Or Drink Recipes" autoComplete="off"

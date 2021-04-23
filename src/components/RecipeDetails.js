@@ -2,9 +2,9 @@ import React from 'react'
 
 const { v4: uuidv4 } = require('uuid');
 const RecipeDetails = ({ ingredients }) => {
-    
-     
-    ingredients.map(ingredient => {
+
+
+    return ingredients.map(ingredient => {
 
 
         return (
