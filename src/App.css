@@ -1,12 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700&display=swap");
 
 * {
-  
- 
   font-family: "Source Sans Pro", sans-serif;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
   margin: 0;
   padding: 0;
   text-decoration: none;
