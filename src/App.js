@@ -49,11 +49,11 @@ const App = () => {
     //center our heading
     <div className="App">
       <h1>Serenrecipe!</h1>
-      <h2>Recipe Searching App</h2>
+
       <form className="search-form" onSubmit={onSubmit}>
         {alert !== "" && <Alert alert={alert} />}
 
-        <input type="text" placeholder="Search Food" autoComplete="off"
+        <input type="text" placeholder="Search Food Recipes" autoComplete="off"
           onChange={onChange}
           value={query} />
         <input type="submit" value="search" />
