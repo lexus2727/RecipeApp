@@ -168,13 +168,9 @@ h1 {
   font-size: 1.3rem;
 }
 
-@media only screen and (max-width: 375px) {
-  h1, .search-form {
-    font-size: 30px;
-    background-color: orange;
-  }
+
   
-}
+
 @media only screen and (min-width: 778px) {
   /* For desktop: */
 
