@@ -171,11 +171,11 @@ h1 {
 @media only screen and (max-width: 375px) {
   h1 {
     font-size: 30px;
-    
 
-  }
+    
+ }
   .search-form {
-  width: 10px;
+  width: 20px;
   height: 5rem;
   } 
 }
