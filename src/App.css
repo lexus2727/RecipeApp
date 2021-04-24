@@ -11,7 +11,7 @@
 
 html {
   font-size: 62.5%;
-  overflow-x:hidden;
+  
 }
 
 .App {
@@ -240,6 +240,7 @@ h1 {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    overflow-x:hidden;
 
  
 
