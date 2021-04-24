@@ -13,7 +13,7 @@ html {
   font-size: 62.5%;
   
 }
-html, body {width: auto!important; overflow-x: hidden!important} 
+
 
 .App {
   display: flex;
