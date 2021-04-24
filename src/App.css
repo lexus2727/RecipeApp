@@ -13,7 +13,7 @@ html {
   font-size: 62.5%;
   
 }
-html, body {width: auto!important; overflow-x: hidden!important} 
+html, body {width: auto!important; overflow-x: hidden!important} /*keeps page from moving horizontally on mobile*/
 
 .App {
   display: flex;
@@ -178,6 +178,9 @@ h1 {
   .search-form {
     width:40rem;
     height:10rem;
+  }
+  body {
+    background-image: url("https://wallpapertag.com/wallpaper/full/f/6/f/127148-new-cream-background-2560x1440.jpg");
   }
   
 }
