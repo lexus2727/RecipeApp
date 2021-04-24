@@ -173,6 +173,10 @@ h1 {
    font-size: 30 px;
     background-color: orange;
   }
+  .search-form {
+    width:10rem;
+    height:5rem;
+  }
   
 }
 @media only screen and (min-width: 778px) {
