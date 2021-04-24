@@ -175,8 +175,8 @@ h1 {
     
  }
   .search-form {
-  width: 20px;
-  height: 5rem;
+  width: 40px;
+  height: 10rem;
   } 
 }
 @media only screen and (min-width: 778px) {
