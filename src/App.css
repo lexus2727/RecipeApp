@@ -170,7 +170,7 @@ h1 {
 
 @media only screen and (max-width: 375px) {
   h1 {
-   font-size: 20 px;
+   font-size: 4rem;
     background-color: orange;
   }
   .search-form {
